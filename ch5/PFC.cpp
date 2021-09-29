@@ -3,7 +3,7 @@
 typedef BinTree<char> PFCTree;
 
 #include "Vector.h"
-typedef Vector<PFCTree*> PFCForest
+typedef Vector<PFCTree*> PFCForest;
 
 #include "Bitmap.h"
 #include "Skiplist.h"
